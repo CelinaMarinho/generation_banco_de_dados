@@ -1,4 +1,4 @@
-CREATE SCHEMA exercicio1;
+CREATE TABLE exercicio1;
 
 USE exercicio1;
 
