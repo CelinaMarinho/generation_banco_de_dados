@@ -1,4 +1,4 @@
-CREATE TABLE exercicio2;
+CREATE DATABASE exercicio2;
 
 USE exercicio2;
 
